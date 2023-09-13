@@ -23,6 +23,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=F05032" alt="C logo" title="C" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
