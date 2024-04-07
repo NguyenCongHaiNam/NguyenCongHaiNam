@@ -50,7 +50,7 @@
   <a href="https://www.youtube.com/channel/UC0qQRsRvy1x48eRzLYl_bfQ" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="h1n4m-youtube" />
   </a>
-  <a href="mailto:nguyenconghainamk57mta@gmail.com" target="top">
+  <a href="mailto:h1n4m.work@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="h1n4m-email" />
   </a>
 </div>
